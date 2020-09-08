@@ -1,0 +1,87 @@
+/*Hamidou Diallo
+Jeramie Castillo
+*/
+PS C:\Users\youma\Desktop\css 430>  cd 'c:\Users\youma\Desktop\css 430'; & 'c:\Users\youma\.vscode\extensions\vscjava.vscode-java-debug-0.27.1\scripts\launcher.bat' 'C:\Program Files\Java\jdk-13.0.2\bin\java.exe' '-Dfile.encoding=UTF-8' '-cp' 'C:\Users\youma\AppData\Roaming\Code\User\workspaceStorage\60c816bc5dac50bc3b1d317842e05250\redhat.java\jdt_ws\css 430_fbb3a026\bin' 'Boot'
+new inode created
+test101.txt added to directory 
+Block 8 reserved
+
+
+new inode created
+test201.txt added to directory 
+Block 5 reserved
+
+
+new inode created
+test301.txt added to directory 
+10 blocks added to node        
+
+
+new inode created
+test401.txt added to directory 
+5 block added to node
+
+
+test101.txt 8 blocks 4096kb    
+test201.txt 5 blocks 2560kb    
+test301.txt 10 blocks 5120kb   
+test401.txt 5 blocks 2560kb    
+1433kb total
+
+
+Adding node
+4 block added to Inode
+
+
+5 block added to Inode
+
+
+new inode created
+test501.txt added to directory 
+10 block added to Inode
+
+
+test101.txt 8 blocks 4096kb
+test201.txt 5 blocks 5120kb
+test301.txt 10 blocks 3584kb
+test401.txt 5 blocks 4608kb
+test501.txt 5 blocks 5120kb
+22528kb total
+
+
+33 block deleted
+
+
+new inode created
+test601.txt added to directory
+1 block added to node
+
+
+test201.txt 5 blocks 4608kb
+test301.txt 10 blocks 3584kb
+test401.txt 5 blocks 4608kb
+test501.txt 5 blocks 5120kb
+test601.txt 5 blocks 512kb
+18432kb total
+
+
+Block 2 deleted
+new inode created
+test701.txt added to directory
+3 block added to node
+
+
+new inode created
+test801.txt added to directory
+3 block added to node
+
+
+new inode created
+test901.txt added to directory
+6 block added to node
+
+########################################################################################
+test101.txt  -rwxr--r--        1  CSS430   23/07/2020 07:20:19  4194304            8
+test201.doc  -rwxr--r--        2  CSS430   23/07/2020 07:20:19  2621440            5
+test301.xls  -rwxr--r--        3  CSS430   23/07/2020 07:20:19  5242880           10
+test401.tif  -rwxr--r--        4  CSS430   23/07/2020 07:20:19  2621440            5
